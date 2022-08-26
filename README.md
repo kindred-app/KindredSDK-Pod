@@ -21,11 +21,11 @@ It will open the Podfile in TextEdit app. Copy and paste the following lines
 source 'https://github.com/kindred-app/Specs.git'
 
 target 'your_app_name' do
-    pod 'KindredSDK', '1.7.1'
+    pod 'KindredSDK', '2.0.6'
 end
 
 target 'your_keyboard_target' do
-    pod 'KindredSDK', '1.7.1'
+    pod 'KindredSDK', '2.0.6'
 end
 ``` 
 
@@ -34,7 +34,7 @@ If you want to install only the Core SDK, then copy the following lines
 source 'https://github.com/kindred-app/Specs.git'
 
 target 'your_app_name' do
-    pod 'KindredSDK/Core', '1.7.1'
+    pod 'KindredSDK/Core', '2.0.6'
 end
 ``` 
 
