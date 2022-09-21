@@ -4,17 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/KindredProperties.h</key>
+		<data>
+		5iZW3OpthKDzLedK6MFIitwkjkw=
+		</data>
 		<key>Headers/KindredSDK-Swift.h</key>
 		<data>
 		WXyiR7M6v816tC6tDAtxWEXUPm4=
 		</data>
 		<key>Headers/KindredSDK.h</key>
 		<data>
-		u8PTEHpQ09mGvWIVJ48yfshjF0Q=
+		cXKD+SK9NP/ZAJ/NuFS2isgw5d8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6ydWUBUujnKdvjf9BtiG3x9eXoU=
+		fZc/7EHF36D1sKOWzN9Y6/Lwnx8=
 		</data>
 		<key>Modules/KindredSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -97,6 +101,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/KindredProperties.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jJunB0UdHLwiuSCzzluEZjPyZDkvdFV5wVpzd640zpU=
+			</data>
+		</dict>
 		<key>Headers/KindredSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -108,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zhlcD9iT7b/j7GXaHuRANBIOQzC3coLNWSAvtO9sLWI=
+			nH4aRzRGLF/NPaS2fAKV4YjlkvhOZ+jtUpJ0ixDKIn4=
 			</data>
 		</dict>
 		<key>Modules/KindredSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>

@@ -36,3 +36,5 @@
 FOUNDATION_EXPORT double KindredSDKVersionNumber;
 
 FOUNDATION_EXPORT const unsigned char KindredSDKVersionString[];
+
+#import "KindredProperties.h"
